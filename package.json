@@ -1,0 +1,21 @@
+{
+  "name": "compress-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ah": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "anhe",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "commander": "^9.4.1",
+    "terser": "^5.16.0"
+  }
+}
