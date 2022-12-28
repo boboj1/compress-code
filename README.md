@@ -3,7 +3,7 @@
 
 安装
 ```shell
-npm install ahcli -g
+npm install tyhdevcli -g
 ```
 
 ## 创建项目
@@ -11,5 +11,5 @@ npm install ahcli -g
 暂时只有vue2的模板
 
 ```shell
-ahcli create 类型 目标目录
+tyhdevcli create 类型 目标目录
 ```
