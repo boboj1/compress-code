@@ -1,17 +1,25 @@
 {
-  "name": "compress-tool",
+  "name": "ahcli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "ah": "index.js"
+    "ahcli": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "vue",
+    "CLI"
+  ],
   "author": "anhe",
   "license": "MIT",
+  "homepage": "https://github.com/taoyuhan894/compress-code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taoyuhan894/compress-code"
+  },
   "dependencies": {
     "@babel/core": "^7.20.5",
     "@babel/preset-env": "^7.20.2",
