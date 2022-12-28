@@ -15,7 +15,9 @@
   "dependencies": {
     "@babel/core": "^7.20.5",
     "@babel/preset-env": "^7.20.2",
+    "chalk": "^4.1.0",
     "commander": "^9.4.1",
+    "download-git-repo": "^3.0.2",
     "terser": "^5.16.0"
   }
 }
