@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { program } = require('commander')
 
 const createCommands = require('./lib/core/create')
